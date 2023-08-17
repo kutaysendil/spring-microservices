@@ -1,1 +1,1 @@
-SPRING BOOT MICRO SERVICES
+/assets/diagram.png
